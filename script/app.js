@@ -174,7 +174,7 @@ $(document).ready(function () {
 
         try {
 
-            const response = await fetch("./data/gifts.json");
+            const response = await fetch("data/gifts.json");
 
             if (!response.ok) {
                 throw new Error(`HTTP Error: ${response.status}`);

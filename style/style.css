@@ -1,0 +1,46 @@
+
+body {
+    background-color: #fffed8;
+    font-family: Arial, sans-serif;
+}
+
+#main-text {
+    text-shadow: 2px 2px 2px #000;
+}
+
+.hero {
+    height: 40vh;
+    background: linear-gradient(360deg, #fffed8, #8ae8ff);
+}
+
+.card {
+    transition: transform 0.2s ease;
+    border: none;
+    border-radius: 16px;
+}
+
+.gift-image {
+    height: 220px;
+    object-fit: scale-down;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+
+.price-tag {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #2575fc;
+}
+
+.badge-reserved {
+    background-color: #dc3545;
+}
+
+.badge-available {
+    background-color: #28a745;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}

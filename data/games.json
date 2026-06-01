@@ -1,0 +1,60 @@
+  {
+  "Souls-Like": [
+    "Dark Souls",
+    "Dark Souls II",
+    "Dark Souls III",
+    "Elden Ring",
+    "Bloodborne",
+    "Sekiro: Shadows Die Twice",
+    "Demon's Souls"
+  ],
+
+  "Survival Horror": [
+    "Resident Evil (1996)",
+    "Resident Evil 2 (1998)",
+    "Resident Evil 3: Nemesis (1999)",
+    "Resident Evil 4 Remake",
+    "Resident Evil: Requiem",
+    "Silent Hill",
+    "Silent Hill 2",
+    "Silent Hill 3",
+    "Fatal Frame",
+    "Signalis",
+    "Dead Space",
+    "The Evil Within"
+  ],
+
+  "Action Horror": [
+    "Resident Evil 5",
+    "Resident Evil 6",
+    "Resident Evil Village",
+    "Dead Space 2",
+    "Alan Wake 2"
+  ],
+
+  "Metroidvania": [
+    "Hollow Knight",
+    "Hollow Knight: Silksong",
+    "Blasphemous",
+    "Blasphemous 2",
+    "Castlevania: Symphony of the Night"
+  ],
+
+  "Open World RPG": [
+    "The Witcher 3: Wild Hunt",
+    "Cyberpunk 2077",
+    "Skyrim",
+    "Fallout: New Vegas",
+    "Ghost of Tsushima"
+  ],
+
+  "JRPG": [
+    "Persona 5 Royal",
+    "Persona 3 Reload",
+    "NieR: Automata",
+    "NieR Replicant",
+    "Final Fantasy VII Remake",
+    "Final Fantasy XVI",
+    "Chrono Trigger"
+  ]
+}

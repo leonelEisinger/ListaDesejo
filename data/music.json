@@ -1,0 +1,45 @@
+{
+  "Pop/Europop": [
+    "ABBA",
+    "Twenty One Pilots",
+    "Modern Talking"
+  ],
+  "Rock": [
+    "Linkin Park",
+    "Radiohead",
+    "Queen",
+    "Bôa",
+    "Billy Idol",
+    "Eagles",
+    "The Cranberries",
+    "Nirvana",
+    "Paramore"
+  ],
+  "Metal": [
+    "Slipknot",
+    "System of a Down",
+    "Metallica",
+    "Iron Maiden"
+  ],
+  "Nu Metal": [
+    "Limp Bizkit",
+    "Deftones",
+    "Papa Roach"
+  ],
+  "Citypop": [
+    "Mariya Takeuchi",
+    "Tatsuro Yamashita",
+    "Anri",
+    "Miki Matsubara"
+  ],
+  "Game Soundtrack": [
+    "Metal Gear Rising: Revengeance Soundtrack",
+    "Metal Gear Solid 3: Snake Eater Soundtrack"
+  ],
+  "MPB/Soul": [
+    "Tim Maia",
+    "Jorge Ben Jor",
+    "Djavan",
+    "Seu jorge"
+  ]
+}
